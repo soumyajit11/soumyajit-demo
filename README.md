@@ -1,4 +1,4 @@
 # soumyajit-demo
 my first git repository
 <br>
-author-Soumyajit Banik
+author-Soumyajit Banik(heritage institute of technology)
